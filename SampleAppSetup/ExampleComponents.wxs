@@ -1,0 +1,11 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Fragment>
+		<ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+			<Component Id="MainExecutable" Guid="97F3DDF2-DE62-4ABA-9ED6-A71BC7855CBE">
+				<File Id="SampleAppEXE"
+					  Source="$(var.SampleApp.TargetDir)SampleApp.exe"
+					  KeyPath="yes" />
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
