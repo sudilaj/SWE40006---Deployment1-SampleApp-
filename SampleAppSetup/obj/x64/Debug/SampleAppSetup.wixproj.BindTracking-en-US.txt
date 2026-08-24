@@ -1,0 +1,4 @@
+BuiltPdbOutput	C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\obj\x64\Debug\en-US\SampleAppSetup.wixpdb
+BuiltTargetOutput	C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\obj\x64\Debug\en-US\SampleAppSetup.msi
+Input	C:\Users\sudil\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+Intermediate	C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\obj\x64\Debug\en-US\#cab1.cab

@@ -1,0 +1,6 @@
+C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\obj\x64\Debug\SampleAppSetup.wixproj.CoreCompileInputs.cache
+C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\bin\x64\Debug\en-US\SampleAppSetup.msi
+C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\bin\x64\Debug\en-US\SampleAppSetup.wixpdb
+C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\obj\x64\Debug\en-US\SampleAppSetup.msi
+C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\obj\x64\Debug\en-US\SampleAppSetup.wixpdb
+C:\Users\sudil\source\repos\SampleApp\SampleAppSetup\obj\x64\Debug\SampleAppSetup.wixproj.BindTracking-en-US.txt
