@@ -1,0 +1,9 @@
+C:\Users\sudil\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+C:\Users\sudil\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\sudil\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\sudil\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.AssemblyReference.cache
+C:\Users\sudil\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.Properties.Resources.resources
+C:\Users\sudil\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.GenerateResource.cache
+C:\Users\sudil\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\sudil\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+C:\Users\sudil\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
